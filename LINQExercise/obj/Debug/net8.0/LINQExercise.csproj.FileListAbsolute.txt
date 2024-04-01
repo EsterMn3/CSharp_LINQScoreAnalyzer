@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\LINQExercise\bin\Debug\net8.0\LINQExercise.exe
+C:\Users\hp\C#projects\LINQExercise\bin\Debug\net8.0\LINQExercise.deps.json
+C:\Users\hp\C#projects\LINQExercise\bin\Debug\net8.0\LINQExercise.runtimeconfig.json
+C:\Users\hp\C#projects\LINQExercise\bin\Debug\net8.0\LINQExercise.dll
+C:\Users\hp\C#projects\LINQExercise\bin\Debug\net8.0\LINQExercise.pdb
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.AssemblyInfo.cs
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.dll
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\refint\LINQExercise.dll
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.pdb
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\LINQExercise.genruntimeconfig.cache
+C:\Users\hp\C#projects\LINQExercise\obj\Debug\net8.0\ref\LINQExercise.dll
